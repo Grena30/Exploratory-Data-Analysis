@@ -1,4 +1,4 @@
-TIME_PERIOD,gdp,unemployment_rate,inflation_rate_anually,education_attainment,gdp_per_capita,gdp_growth_rate,price_index,energy_prices,inflation_rate_monthly,gas_emissions,household_income_q1,household_income_q2,household_income_q3,cnmigrat,total_population,net_population_growth,growth_rate,births,deaths
+TIME_PERIOD,gdp,unemployment_rate,inflation_rate_anually,education_attainment,gdp_per_capita,gdp_growth_rate,price_index,energy_prices,inflation_rate_monthly,gas_emissions,household_income_q1,household_income_q2,household_income_q3,net_migration,total_population,net_population_growth,growth_rate,births,deaths
 2000-01-01,73892.1,,,,34240.0,,78.83,,,49.47555,,,,24386.0,8872109.0,21366.0,2.4,90441.0,93461.0
 2000-02-01,,,,,,,79.2,,,,,,,,,,,,
 2000-03-01,,,,,,,79.59,,,,,,,,,,,,
