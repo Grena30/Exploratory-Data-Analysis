@@ -48,4 +48,4 @@ jupyter notebook
 
 ### 5. Project structure
 
-**model.ipynb** - code related to data imputation, feature selection, model training/evaluating
+**model.ipynb** - code related to data imputation, feature selection, model training/evaluation
